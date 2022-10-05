@@ -5,13 +5,10 @@ import java.util.Scanner;
 public class EvenNumCheck {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Enter the Number: ");
 		
-		int num = scanner.nextInt();
+		int num = new Scanner(System.in).nextInt();
 		
 		if(num%2==0) {
 			

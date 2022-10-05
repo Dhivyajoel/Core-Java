@@ -53,10 +53,6 @@ public class RunnerClass {
 		Br.CloseBrowser();
 		Br.DisplayName();
 		
-		HondaCar car1 = new HondaCar();
-		
-		CarInterface car2 = new HondaCar();
-		
 		EncapsulationEx En = new EncapsulationEx();
 		
 		En.setBalance(3000);

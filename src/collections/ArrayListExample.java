@@ -8,8 +8,6 @@ public class ArrayListExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String[]array1 = {"abc","pqr","xyz","asdasd","rtert"};
-		
 		ArrayList<String>List1 = new ArrayList<String>();
 		
 		List1.add("John");

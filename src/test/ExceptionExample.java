@@ -7,9 +7,6 @@ public class ExceptionExample {
 		
 		int[] array = {3,4,5};
 		
-		int num =10;
-		
-		
 		try {
 			
 			//int res = num/0;

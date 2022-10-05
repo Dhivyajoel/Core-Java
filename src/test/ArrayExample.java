@@ -14,10 +14,6 @@ public class ArrayExample {
 		System.out.println("The last num is " + array1[array1.length -1]);
 		
 		
-		String[] array2 = {"abc","pqr","xyz"};
-		
-		
-		
 		String str1 = "Clean World Green World";
 	
 		String[] array3 = str1.split(" "); // {"Clean","World","Green","World"}
